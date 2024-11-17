@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a cofounder and CTO at [Cobot](https://www.cobot.me) since 2010. I manage a team of two backend and one frontend developers. I write code mostly in Ruby ([Rails](https://rubyonrails.org/)) and TypeScript ([Ember JS](https://emberjs.com/)). I am a big advocate of testing and agile developent. On that jourmey we are currently at [Shape Up](https://basecamp.com/shapeup).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I once wrote a persistence libray for [CouchDB](https://couchdb.apache.org/) called [Couch Potato](https://github.com/langalex/couch_potato), which we still use.
+
+Outside of software development, I am and have been [building a smallish (6.50m) sailing yacht](https://github.com/langalex/couch_potato) out of epoxy and plywood since 2016. I also make things on 3d printers and occasionally videos.
