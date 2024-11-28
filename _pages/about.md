@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a cofounder and CTO at [Cobot](https://www.cobot.me) since 2010. I manage a team of two backend and one frontend developers. I write code mostly in Ruby ([Rails](https://rubyonrails.org/)) and TypeScript ([Ember JS](https://emberjs.com/)). I am a big advocate of testing and agile developent. On that jourmey we are currently at [Shape Up](https://basecamp.com/shapeup).
+I am a cofounder and CTO at [Cobot](https://www.cobot.me) since 2010. I manage a team of two backend and one frontend developers. I write code mostly in Ruby ([Rails](https://rubyonrails.org/)) and TypeScript ([Ember JS](https://emberjs.com/)). I am a big advocate of testing and agile developent. On that journey we are currently at [Shape Up](https://basecamp.com/shapeup).
 
 I once wrote a persistence libray for [CouchDB](https://couchdb.apache.org/) called [Couch Potato](https://github.com/langalex/couch_potato), which we still use.
 
