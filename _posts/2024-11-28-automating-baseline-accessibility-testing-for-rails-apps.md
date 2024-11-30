@@ -12,7 +12,7 @@ tags:
   - CI
 header:
   image: /assets/photos/agung-suksmanto-hLhcAhr7Acw-unsplash.webp
-  image_description: the shadow of a kid holding hands with a figure painted on the pavement in yellow
+  image_description: The shadow of a kid holding hands with a figure painted on the pavement in yellow.
   caption: Photo by <a href="https://unsplash.com/@nerthus_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">AGUNG SUKSMANTO</a> on <a href="https://unsplash.com/photos/a-yellow-pedestrian-crossing-sign-on-a-brick-road-hLhcAhr7Acw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 ---
 
