@@ -5,7 +5,7 @@ date: "2015-02-10T09:56:16+01:00"
 tags:
   - dinghy
   - plywood
-category: Boat building
+category: Making Boats
 ---
 
 <img src="/assets/photos/IMG_5261.jpg"/>

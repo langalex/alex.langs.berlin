@@ -5,7 +5,7 @@ tags:
   - chainplates
   - rigging
 title: Composite chainplates
-category: Boat building
+category: Making Boats
 ---
 
 From very early on, I've been planning to use [synthetic standing rigging](/2014/08/06/dynex-dux-fiber-rigging-after-6-000-sea-miles.html) instead of wires. It doesn't corrode, it's lighter, and I can install it myself – no wire terminals that require a machine to make, just lashings and splices everywhere. What I didn't like was that I would get rid of the metal in the shrouds, but still have to attach them to metal chainplates. Until I found out about composite chainplates.

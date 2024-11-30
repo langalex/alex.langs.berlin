@@ -6,7 +6,7 @@ tags:
   - bulkheads
   - router
 title: Mini Boat Yard Episode 6 - unboxing, assembling bulkheads, heating
-category: Boat building
+category: Making Boats
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GGm7RM-yxY" frameborder="0" allowfullscreen></iframe>

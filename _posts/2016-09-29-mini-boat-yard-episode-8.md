@@ -7,7 +7,7 @@ tags:
   - tangents
   - sheer clamps
 title: Mini Boat Yard Episode 8 - installing the longitudinals
-category: Boat building
+category: Making Boats
 ---
 
 I'm done adding all the longitudinals to the hull! This included all the stringers, the two tangents per side and the sheer clamps.

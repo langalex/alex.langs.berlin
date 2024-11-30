@@ -5,7 +5,7 @@ tags:
   - hull
   - panels
 title: Mini Boat Yard Episode 9 - completing the hull
-category: Boat building
+category: Making Boats
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgTv-_gXcbY" frameborder="0" allowfullscreen></iframe>

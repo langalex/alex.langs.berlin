@@ -6,7 +6,7 @@ tags:
   - sanding
   - foam floatation
 title: Mini Boat Yard Episode 4 - applying primer, sanding, shaping foam
-category: Boat building
+category: Making Boats
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flTBedrs8Jg" frameborder="0" allowfullscreen></iframe>

@@ -4,7 +4,7 @@ tags:
   - dinghy
   - plywood
 title: Dinghy Build
-category: Boat building
+category: Making Boats
 ---
 
 We’ve been working on a Dinghy over the last holidays but haven’t been able to complete it in time. So now progress is a bit slower with only the weekends available.

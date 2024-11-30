@@ -5,7 +5,7 @@ tags:
   - paint
   - sailing
 title: Mini Boat Yard Episode 5 - painting the hull, went sailing, finished!
-category: Boat building
+category: Making Boats
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ubo6iJRnZc" frameborder="0" allowfullscreen></iframe>

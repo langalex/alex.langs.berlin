@@ -3,7 +3,7 @@ date: "2015-07-16T00:00:00+02:00"
 tags:
   - miniboatyard
 title: Mini Boat Yard Episode 3 - lots of sanding, sawing foam is a lot more fun.
-category: Boat building
+category: Making Boats
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X8vJOCAZ36w" frameborder="0" allowfullscreen></iframe>

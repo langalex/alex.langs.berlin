@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
   name: "Alexander Lang"
@@ -97,6 +98,7 @@ defaults:
       comments: true
       share: false
       related: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"

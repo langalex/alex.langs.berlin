@@ -7,4 +7,4 @@ I am a cofounder and CTO at [Cobot](https://www.cobot.me) since 2010. I manage a
 
 I once wrote a persistence libray for [CouchDB](https://couchdb.apache.org/) called [Couch Potato](https://github.com/langalex/couch_potato), which we still use.
 
-Outside of software development, I am and have been [building a smallish (6.50m) sailing yacht](https://github.com/langalex/couch_potato) out of epoxy and plywood since 2016. I also make things on 3d printers and occasionally videos.
+Outside of software development, I am and have been [building a smallish (6.50m) sailing yacht](/making-boats) out of epoxy and plywood since 2016. I also make things on 3d printers and occasionally videos.

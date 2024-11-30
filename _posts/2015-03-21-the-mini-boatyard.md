@@ -4,7 +4,7 @@ tags:
   - build
   - workshop
 title: The Mini Boat Yard
-category: Boat building
+category: Making Boats
 ---
 
 Things have been moving forward quite a bit in the past weeks. I have finally found a permanent place to build the “big” (Mini 6.50) boat. It’s a 48sqm shed inside a huge industrial hall - and it’s in Berlin, so I don’t have to travel forever to get to it. The one problem this place has is that the shed itself has no roof, which is going to make heating it quite a challenge, but I’ll worry about that next winter.

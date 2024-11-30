@@ -7,7 +7,7 @@ tags:
   - mk3
   - parts
 title: Did Mini MK3 kit - which part goes where
-category: Boat building
+category: Making Boats
 ---
 
 <img src="/assets/photos/kit-6.jpg"/>
