@@ -9,10 +9,9 @@ tags:
   - Ergonomics
   - 3D Printing
   - Making
-# header:
-# image: /assets/photos/agung-suksmanto-hLhcAhr7Acw-unsplash.webp
-# image_description:
-# caption:
+header:
+  image: /assets/photos/wrist_pad_banner.webp
+  image_description: One of my 3D printed wrist pad prototypes.
 ---
 
 A while ago I got hit with tennis arm — and I don’t even play tennis. It was quite severe, and for over a year my right elbow hurt when moving it in certain ways. While trying to find the cause(s) of the issue it became clear that working from the sofa with my laptop, well, on my lap, was not ideal in many ways. One of those being the position of my arms and hands on that narrow, flat keyboard and track pad.
