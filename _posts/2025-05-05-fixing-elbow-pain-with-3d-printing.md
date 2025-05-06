@@ -1,5 +1,5 @@
 ---
-title: "Arm health and keyboards"
+title: "Fixing elbow pain with 3D printing"
 excerpt_separator: "<!--more-->"
 categories:
   - Making Things
@@ -15,7 +15,7 @@ tags:
 # caption:
 ---
 
-A while ago I got hit with tennis arm — and I don’t even play tennis. It was quite severe, and for over a year my right elbow hurt when moving it in certain ways. While trying to find the cause(s) of the issue it became clear that working from the sofa with my laptop, well, on my lap, was not ideal in many ways. One of those being the position of my arms and hands on that narrow, flat keyboard, and track pad.
+A while ago I got hit with tennis arm — and I don’t even play tennis. It was quite severe, and for over a year my right elbow hurt when moving it in certain ways. While trying to find the cause(s) of the issue it became clear that working from the sofa with my laptop, well, on my lap, was not ideal in many ways. One of those being the position of my arms and hands on that narrow, flat keyboard and track pad.
 
 <!--more-->
 
