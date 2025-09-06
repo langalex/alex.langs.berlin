@@ -2,7 +2,7 @@
 title: "Testing bindable properties on Svelte 5"
 excerpt_separator: "<!--more-->"
 categories:
-  - Making Software
+  - Software
 tags:
   - Svelte
   - Testing
