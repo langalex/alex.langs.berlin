@@ -1,19 +1,6 @@
----
-title: "Testing bindable properties on Svelte 5"
-excerpt_separator: "<!--more-->"
-categories:
-  - Making Software
-tags:
-  - Svelte
-  - Testing
-  - JavaScript
----
-
-I was recently working on a Svelte (5) component that was using a `$bindable` property. When it came to writing a test for it, I got stuck on how to pass bind said property to a variable in my test module.
+I was recently working on a Svelte (5) component that was using a `$bindable` property. When it came to writing a test for it, I got stuck on how to bind said property to a variable in my test module.
 
 Suppose the component looks like this:
-
-<!--more-->
 
 ```html
 
@@ -53,12 +40,12 @@ it('updates the bound counter', async () => {
 			const button = container.querySelector('button'):
 			button.dispatchEvent(new Event('click'));
 
-		      expect(boundCounter).toBe(1); // nope, still 0
+		  expect(boundCounter).toBe(1); // nope, still 0
 		});
 
 ```
 
-There is a very simple solution to this problem. I could not find it in the docs or on the Internet, neither could any AI help me out.
+There is a very simple solution to this problem. I could not find it in the docs nor on the Internet. Neither could any AI help me out.
 
 What I ended up doing is checking out the compiled code of the parent component above. If you have installed Svelte plugins in for example VS Code, there is a button in the top right corner to see it.
 
@@ -70,11 +57,11 @@ it('updates the bound counter', async () => {
 
 			const { container } = render(CountButton, {
 				props: {
-					// simulate bind:sharedScrollPosition
+					// simulate bind:count
 					get count() {
 						return boundCounter;
 					},
-					set counter(value) {
+					set count(value) {
 						boundCounter = value;
 					}
 				}
@@ -83,7 +70,7 @@ it('updates the bound counter', async () => {
 			const button = container.querySelector('button'):
 			button.dispatchEvent(new Event('click'));
 
-		      expect(boundCounter).toBe(1);
+		  expect(boundCounter).toBe(1); // works
 		});
 ```
 
