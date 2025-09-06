@@ -1,3 +1,14 @@
+---
+title: "Testing bindable properties on Svelte 5"
+excerpt_separator: "<!--more-->"
+categories:
+  - Making Software
+tags:
+  - Svelte
+  - Testing
+  - JavaScript
+---
+
 I was recently working on a Svelte (5) component that was using a `$bindable` property. When it came to writing a test for it, I got stuck on how to bind said property to a variable in my test module.
 
 Suppose the component looks like this:
