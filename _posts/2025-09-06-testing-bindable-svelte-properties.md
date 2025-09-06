@@ -1,5 +1,5 @@
 ---
-title: "Testing bindable properties on Svelte 5"
+title: "Testing bindable properties in Svelte 5"
 excerpt_separator: "<!--more-->"
 categories:
   - Software
