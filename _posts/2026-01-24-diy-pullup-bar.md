@@ -2,16 +2,16 @@
 title: "DIY Wooden Pullup Bar"
 excerpt_separator: "<!--more-->"
 categories:
-  - Making Things
+    - Making Things
 tags:
-  - Making
-  - Plywood
-  - Wood
+    - Making
+    - Plywood
+    - Wood
 
 header:
-  image: /assets/photos/pullup-bar.webp
-  image_description: "A wooden pullup bar mounted inside a wall opening with a plywood bracket on each side."
-  caption: "My DIY pullup bar made from wood."
+    image: /assets/photos/pullup-bar.webp
+    image_description: "A wooden pullup bar mounted inside a wall opening with a plywood bracket on each side."
+    caption: "My DIY pullup bar made from wood."
 ---
 
 For a long time, I've wanted a pull-up bar at home. Not necessarily for doing tons of pull-ups, but for dead hanging and to install a swing for my kid.
@@ -20,6 +20,8 @@ There is a company called FatMonkey and they make amazing [wall bars](https://fa
 
 {% include image.html url="/assets/photos/fatmonkey_sprossenwand.webp" alt="The FatMonkey wall bars" caption="Photo by Fatmonkey" %}
 
+<!--more-->
+
 Their magic trick is a slot going from horizontal to vertical, combined with an oval shaped bar. Inserting the bar into the slot locks it in place and prevents it from rotating.
 
 {% include image.html url="/assets/photos/fatmonkey_detail.webp" alt="Detail view of the FatMonkey wall bars" caption="Photo by FatMonkey" %}
@@ -27,8 +29,6 @@ Their magic trick is a slot going from horizontal to vertical, combined with an 
 With 12 slots, you can adjust the height of the bar for any exercises you might want. And because the whole thing stands on the floor, it doesn’t put a lot of strain on your door frame, so there is no danger of breaking it.
 
 The downside: at the time of writing, it costs around 300€.
-
-<!--more-->
 
 Which I would be happy to pay if I needed an adjustable bar that is easy on the door frame. But I only need one height, and I have an opening in a structural wall with no flimsy frame.
 

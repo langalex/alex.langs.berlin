@@ -2,11 +2,11 @@
 title: "Testing bindable properties in Svelte 5"
 excerpt_separator: "<!--more-->"
 categories:
-  - Software
+    - Software
 tags:
-  - Svelte
-  - Testing
-  - JavaScript
+    - Svelte
+    - Testing
+    - JavaScript
 ---
 
 I was recently working on a Svelte (5) component that was using a `$bindable` property. When it came to writing a test for it, I got stuck on how to bind said property to a variable in my test module.
@@ -14,24 +14,24 @@ I was recently working on a Svelte (5) component that was using a `$bindable` pr
 Suppose the component looks like this:
 
 ```html
-
 <script>
-  const { count = $bindable() } = props();
+    const { count = $bindable() } = props();
 </script>
 
-<button onclick={() => count = count + 1}>Click</button>
+<button onclick="{()" ="">count = count + 1}>Click</button>
 ```
+
+<!--more-->
 
 From another component you would call it like this:
 
 ```html
 <script>
 
-  let myCounter = $state(0):
-
+    let myCounter = $state(0):
 </script>
 
-<CountButton bind:count={myCounter}/>
+<CountButton bind:count="{myCounter}" />
 
 <p>Count is {myCounter}</p>
 ```

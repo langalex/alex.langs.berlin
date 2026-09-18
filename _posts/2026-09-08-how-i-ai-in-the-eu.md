@@ -1,23 +1,23 @@
 ---
-title: "How I AI in the EU"
+title: "How I AI in the EU :eu:"
 excerpt_separator: "<!--more-->"
 categories:
-    - Software
+  - Software
 tags:
-    - AI
-    - LLMs
-    - Harness
-    - Cloud Agent
-    - Open Models
-    - Europe
-    - Sovereignty
+  - AI
+  - LLMs
+  - Harness
+  - Cloud Agent
+  - Open Models
+  - Europe
+  - Sovereignty
 ---
 
 In the past few years, AI has taken over coding. At least in my field, which is business software on the web. Whether we like it or not, coding by hand is just not competitive anymore, and carrying on as before is very likely a career stopper, or business stopper [in my case](https://cobot.me).
 
-<!--more-->
-
 I have come to very much enjoy this new developer reality. From starting with LLM-enhanced auto-complete in VS Code, later using chat to get bigger and bigger tasks done, to today firing off a few cloud agents from my phone while on a weekend trip.
+
+<!--more-->
 
 ## Oh Dear
 
