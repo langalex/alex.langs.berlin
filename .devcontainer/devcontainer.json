@@ -1,0 +1,10 @@
+{
+    "name": "Jekyll",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "jekyll",
+    "workspaceFolder": "/workspace",
+    "forwardPorts": [4000, 35729],
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    }
+}

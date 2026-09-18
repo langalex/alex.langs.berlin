@@ -1,0 +1,11 @@
+services:
+  jekyll:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    volumes:
+      - ..:/workspace:cached
+    ports:
+      - "4000:4000"
+      - "35729:35729" # LiveReload
+    command: sleep infinity
