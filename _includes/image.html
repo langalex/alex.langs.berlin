@@ -1,4 +1,10 @@
 <figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.alt }}" />
-  <figcaption>{{ include.caption | markdownify}}</figcaption>
+    {% if include.href %}
+    <a href="{{ include.href }}">
+        {% endif %}
+        <img src="{{ include.url }}" alt="{{ include.alt }}" />
+        {% if include.href %}
+    </a>
+    {% endif %}
+    <figcaption>{{ include.caption | markdownify}}</figcaption>
 </figure>
